@@ -55,6 +55,8 @@ Here are some ideas to get you started:
 - NetBeans
 - CLion
 - Overleaf
+- Jupyter
+- Google Colab
 - Blender
 - Ableton
 - Guitar Pro
@@ -65,6 +67,8 @@ Here are some ideas to get you started:
   <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png" alt="NetBeans" width="35" height="40" title="NetBeans"/> </a> <!-- Netbeans -->
   <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/clion-icon-512x512-voz1nhcz.png" alt="CLion" width="40" height="40" title="CLion"/> </a> <!-- CLion -->
   <a href="https://es.overleaf.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/23329364/122003663-abcb4e80-cdb3-11eb-9da5-4127e5e7d03e.png" alt="OverLeaf" width="40" height="40" title="Overleaf"/> </a> <!-- Overleaf -->
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_200,h_200/https://api.charmhub.io/api/v1/media/download/charm_wuVM6bSMaCcCTWaqTfvyBRS5SqLVCVy1_icon_fde574967418afe93bb032808563e40e63606adb805113065acfa35010332164.png" alt="Jupyter" width="40" height="40" title="Jupyter"/> </a> <!-- Jupyter -->
+  <a href="https://colab.google/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" alt="Google Colab" width="50" height="35" title="Google Colab"/> </a> <!-- Google Colab -->
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="Blender" width="40" height="35" title="Blender"/> </a> <!-- Blender -->
   <a href="https://www.ableton.com/" target="_blank" rel="noreferrer"> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/198142ac-f410-423a-bf0b-34c9cb5d9609/dbui0fg-b55c2956-9d64-4bfe-92e8-c6895bd30c40.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE5ODE0MmFjLWY0MTAtNDIzYS1iZjBiLTM0YzljYjVkOTYwOVwvZGJ1aTBmZy1iNTVjMjk1Ni05ZDY0LTRiZmUtOTJlOC1jNjg5NWJkMzBjNDAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9DtXNkFJe4APG_oLlYPwExdZ1IqwCK9yPPe3nMyrnM4" alt="Ableton" width="40" height="40" title="Ableton"/> </a> <!-- Ableton -->
   <a href="https://www.guitar-pro.com/" target="_blank" rel="noreferrer"> <img src="https://www.guitar-pro.com/themes/gp_child_classic/assets/img/guitar-pro-mobile/guitar-pro-mobile.png" alt="Guitar Pro" width="40" height="40" title="Guitar Pro"/> </a> <!-- Guitar Pro -->
