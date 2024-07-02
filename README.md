@@ -21,3 +21,13 @@ Here are some ideas to get you started:
 - 🖥️ FrontEnd Developer
 - 📫 How to reach me:     <a href="mailto:jesumuve19@gmail.com" style="color: white; text-decoration: none;">jesumuve19@gmail.com</a>
 
+## Languages I use:
+- C/C++
+- Python 🐍
+- Java ☕
+- Ruby 🔶
+- HTML5
+- CSS
+- JavaScript
+- bash
+
