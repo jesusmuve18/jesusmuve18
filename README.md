@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, I'm JesusMuve 👋
+<img src="images/back-photo.png" alt="back-photo">
 
 <!--
 **jesusmuve18/jesusmuve18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About me
+- 💻 Computer Engineering Student
+- 📚 Mathematics Student
+- 🖥️ FrontEnd Developer
+- 📫 How to reach me: <a href="jesumuve19@gmail.com">gmail</a>
