@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - 💻 Computer Engineering Student
 - 📚 Mathematics Student
 - 🖥️ FrontEnd Developer
-- 📫 How to reach me: <a href="jesumuve19@gmail.com">gmail</a>
+- 📫 How to reach me:     <a href="mailto:jesumuve19@gmail.com" style="color: white; text-decoration: none;">jesumuve19@gmail.com</a>
+
