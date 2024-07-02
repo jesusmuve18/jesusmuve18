@@ -1,5 +1,5 @@
 ## Hi there, I'm JesusMuve 👋
-<img src="images/back-photo2.jpeg" alt="back-photo"">
+<img src="images/back-photo2.jpeg" alt="back-photo">
 
 <!--
 **jesusmuve18/jesusmuve18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
